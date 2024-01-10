@@ -1,0 +1,17 @@
+SORU 1- [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+root 7'dir. root'un sağında 8 , solunda 5 yer alır. Dizinin ikinci elemanı olan 5 elemanının sağında 6 , solunda 1 yer alır. 
+Dizinin üçüncü elemanı olan 8 elemanının sağında 9 yer alır. Dizinin dördüncü elemanı olan 1 elemanının sağında 3 , solunda 0 yer alır. 
+Dizinin sekizinci elemanı olan 3 elemanının sağında 4, solunda 2 yer alır.
+
+
+       7
+      / \
+     5   8
+    / \   \
+   1   6   9
+  / \     
+ 0   3   
+    / \
+   2   4
+
